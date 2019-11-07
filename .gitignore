@@ -1,0 +1,6 @@
+*.iml
+*.pyc
+daily_trend
+rpt
+*.bak
+.idea
